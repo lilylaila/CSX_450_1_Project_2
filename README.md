@@ -19,7 +19,7 @@
  
 + BENCHMARK MODEL
 
-  Unsupervised models can't be benchmarked. 
+ Unsupervised models can't be benchmarked. 
   
  + EVALUATION METRICS
  
